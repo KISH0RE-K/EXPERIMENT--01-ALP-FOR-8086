@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :KISHORE K
-Roll no 212223040101
-Date of experiment : 20.08.2025
+## Name :KISHORE K
+## Roll no 212223040101
+## Date of experiment : 20.08.2025
 
 
 
@@ -89,7 +89,7 @@ HLT
 
 ## Subtraction   of 8 bit numbers  ALP 
 ```
- MOV AL, 53H;
+MOV AL, 53H;
 MOV BL, 24H;
 SUB AL,BL;
 HLT
