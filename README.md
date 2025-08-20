@@ -129,6 +129,7 @@ HLT
  ```
 ## Output  
 <img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/b7ca0702-75af-4afd-a36e-fe11f4ba16df" />
+
 ## OR
 ```
 MOV AL, 53H
@@ -136,15 +137,19 @@ MOV AL, 53H
  OR AL,BL
  HLT
 ```
+
 ## Output
 <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/82802ae9-0446-4e62-855b-815c9255a2b0" />
+
 ## EX-OR
+
 ```
  MOV AL, 53H
  MOV BL, 24H
  XOR AL,BL
  HLT
 ```
+
 ## Output
 <img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/f83692aa-7537-43e8-91bb-133f7854b16d" />
 
