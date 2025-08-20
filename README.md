@@ -98,7 +98,8 @@ HLT
 <img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/110b8661-ebf2-4a7f-98a5-3acfa78aef48" />
 
 ## Multiplication alp 
-```MOV AL, 53H;
+```
+MOV AL, 53H;
 MOV BL, 24H;
 MUL BL;
 HLT
